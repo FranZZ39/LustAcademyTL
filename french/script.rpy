@@ -4,7 +4,7 @@
 translate french 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "Ici, vous pouvez garder une trace de tous les itinéraires, activités etc.. qui seront à votre disposition. Naviguez rapidement vers celui que vous souhaitez, sans perdre de temps à parcourir les lieux et à chercher. À côté des avatars des personnages se trouvent des icônes, dont le décodage est le suivant."
+    "Ici, vous pouvez garder une trace de tous les itinéraires, activités etc.. qui vous sont disponibles. Naviguez rapidement vers celui que vous souhaitez, sans perdre de temps à parcourir les lieux et à chercher. À côté des avatars des personnages se trouvent des icônes, dont le décodage est le suivant."
 
 # game/script.rpy:742
 translate french start_54c881dc:
